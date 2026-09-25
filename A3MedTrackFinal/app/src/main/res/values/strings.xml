@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Final_medtrack</string>
+    <string name="title_activity_login_screen">LoginScreen</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="title_activity_symptom_screen">SymptomScreen</string>
+    <string name="title_activity_sign_up_screen">SignUpScreen</string>
+    <string name="title_activity_medication_screen">MedicationScreen</string>
+    <string name="title_activity_claim_account_screen">ClaimAccountScreen</string>
+    <string name="title_activity_setting_screen">SettingScreen</string>
+    <string name="title_activity_clinician_login_screen">ClinicianLoginScreen</string>
+    <string name="title_activity_med_coach_screen">MedCoachScreen</string>
+    <string name="title_activity_bottom_bar">BottomBar</string>
+    <string name="title_activity_clinician_screen">ClinicianScreen</string>
+    <string name="title_activity_clinician_dash_board_screen">ClinicianDashBoardScreen</string>
+</resources>
